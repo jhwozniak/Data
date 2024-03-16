@@ -1,2 +1,2 @@
-# Data-Analytics
-interesting projects in data analytics 
+# Data
+interesting projects in data engineering, analytics, visualization etc.  
